@@ -1,0 +1,34 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: geometricPrecision;
+}
+
+.unica {
+  font-family: 'NeueHaasUnicaPro-Regular', sans-serif;
+}
+
+.unica-bold {
+  font-family: 'NeueHaasUnicaPro-Bold', sans-serif;
+}
+
+.tradegothic {
+  font-family: 'TradeGothicNextLTPro-Rg', sans-serif;
+}
+
+.quote {
+  font-family: 'Baskerville', serif !important;
+}
+
+blockquote::before{
+  content: "“";
+  font-size: 6em;
+  line-height: 0.1em;
+  /*margin-right: 0.25em;*/
+  /*vertical-align: -10em;*/
+  margin-top: 0.2em;
+  margin-left: -0.2em;
+  color: rgba(255, 255, 255, 0.3);
+
+  position: absolute;
+}

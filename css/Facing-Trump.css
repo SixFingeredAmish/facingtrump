@@ -1,0 +1,48 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3307719, 2016-11-12T17:23:51-0500
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: BaskervilleMTStd-Regular by Monotype
+ * URL: http://www.myfonts.com/fonts/mti/the-foundation-collection/baskerville-mt-std-regular/
+ * Copyright: Font software Copyright 1994 Adobe Systems Incorporated. Typeface designs Copyright 1994 The Monotype Corporation. All rights reserved.
+ *
+ * Webfont: NeueHaasUnicaPro-Bold by Monotype
+ * URL: http://www.myfonts.com/fonts/mti/the-foundation-collection/neue-haas-unica-pro-bold/
+ * Copyright: Copyright &#x00A9; 2015 Monotype Imaging Inc.  All rights reserved.
+ *
+ * Webfont: NeueHaasUnicaPro-Regular by Monotype
+ * URL: http://www.myfonts.com/fonts/mti/the-foundation-collection/neue-haas-unica-pro/
+ * Copyright: Copyright &#x00A9; 2015 Monotype Imaging Inc.  All rights reserved.
+ *
+ * Webfont: TradeGothicNextLTPro-Rg by Monotype
+ * URL: http://www.myfonts.com/fonts/mti/the-foundation-collection/trade-gothic-next-lt-pro-rg/
+ * Copyright: Copyright &#x00A9; 2008 - 2011 Linotype GmbH, www.linotype.com. All rights reserved. This font software may not be reproduced, modified, disclosed or transferred without the express written approval of Linotype GmbH. Trade Gothic is a trademark of Linotyp
+ *
+ *
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3307719
+ * Licensed pageviews: 250,000
+ *
+ * © 2016 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3278c7");
+
+
+@font-face {font-family: 'Baskerville';src: url('webfonts/3278C7_0_0.eot');src: url('webfonts/3278C7_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3278C7_0_0.woff2') format('woff2'),url('webfonts/3278C7_0_0.woff') format('woff'),url('webfonts/3278C7_0_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'NeueHaasUnicaPro-Bold';src: url('webfonts/3278C7_1_0.eot');src: url('webfonts/3278C7_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3278C7_1_0.woff2') format('woff2'),url('webfonts/3278C7_1_0.woff') format('woff'),url('webfonts/3278C7_1_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'NeueHaasUnicaPro-Regular';src: url('webfonts/3278C7_2_0.eot');src: url('webfonts/3278C7_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3278C7_2_0.woff2') format('woff2'),url('webfonts/3278C7_2_0.woff') format('woff'),url('webfonts/3278C7_2_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'TradeGothicNextLTPro-Rg';src: url('webfonts/3278C7_3_0.eot');src: url('webfonts/3278C7_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3278C7_3_0.woff2') format('woff2'),url('webfonts/3278C7_3_0.woff') format('woff'),url('webfonts/3278C7_3_0.ttf') format('truetype');}
