@@ -16,11 +16,11 @@ body {
   font-family: 'TradeGothicNextLTPro-Rg', sans-serif;
 }
 
-.quote {
+.quote, .baskerville {
   font-family: 'Baskerville', serif !important;
 }
 
-blockquote::before{
+.quote::before{
   content: "“";
   font-size: 6em;
   line-height: 0.1em;
