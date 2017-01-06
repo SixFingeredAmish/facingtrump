@@ -6,14 +6,20 @@ body {
 
 .unica {
   font-family: 'NeueHaasUnicaPro-Regular', sans-serif;
+  font-weight: normal;
+  font-style: normal;
 }
 
 .unica-bold {
   font-family: 'NeueHaasUnicaPro-Bold', sans-serif;
+  font-weight: normal;
+  font-style: normal;
 }
 
 .tradegothic {
   font-family: 'TradeGothicNextLTPro-Rg', sans-serif;
+  font-weight: normal;
+  font-style: normal;
 }
 
 .quote, .baskerville {
